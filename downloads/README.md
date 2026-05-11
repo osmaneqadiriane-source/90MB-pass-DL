@@ -2,6 +2,7 @@
 
 - [Beautiful.Mind.E11.540p.WEB-DL.Golchindl.DUBLE](./Beautiful.Mind.E11.540p.WEB-DL.Golchindl.DUBLE)
 - [Beautiful.Mind.E13.540p.WEB-DL.Golchindl.DUBLE](./Beautiful.Mind.E13.540p.WEB-DL.Golchindl.DUBLE)
+- [Beautiful.Mind.E14.540p.WEB-DL.Golchindl.DUBLE](./Beautiful.Mind.E14.540p.WEB-DL.Golchindl.DUBLE)
 
 ---
 
